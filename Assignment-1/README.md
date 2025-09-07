@@ -58,7 +58,7 @@ The goal is to find paths from a specified start to a goal position while avoidi
 
 ---
 
-## 📊 Results Visualization
+## Results Visualization
 
 * **Individual plots** for each algorithm showing obstacles, start and goal points, and the found path.
 * **Comparative visualization** that overlays paths from all algorithms for side-by-side comparison.
@@ -69,6 +69,7 @@ The goal is to find paths from a specified start to a goal position while avoidi
   * Computation time
   * Success status
 * Results are saved as `results.csv` for further analysis.
+* ![Bug-0 Path](https://github.com/Shirish2004/Assignements-ECS618/blob/main/Assignment-1/assets/bug_0_path.png?raw=true)
 
 ---
 
