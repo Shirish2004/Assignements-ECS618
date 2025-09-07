@@ -69,7 +69,21 @@ The goal is to find paths from a specified start to a goal position while avoidi
   * Computation time
   * Success status
 * Results are saved as `results.csv` for further analysis.
+## Bug 0 Path
 * ![Bug-0 Path](https://github.com/Shirish2004/Assignements-ECS618/blob/main/Assignment-1/assets/bug_0_path.png?raw=true)
+
+## Bug 1 Path
+* ![Bug-1 Path](https://github.com/Shirish2004/Assignements-ECS618/blob/main/Assignment-1/assets/bug_1_path.png?raw=true)
+
+## Bug Tangent Path
+* ![Bug-Tangent Path](https://github.com/Shirish2004/Assignements-ECS618/blob/main/Assignment-1/assets/bug_tangent_path.png?raw=true)
+
+## PRM Path
+* ![PRM Path](https://github.com/Shirish2004/Assignements-ECS618/blob/main/Assignment-1/assets/prm_path.png?raw=true)
+  
+## RRT Path
+* ![RRT Path](https://github.com/Shirish2004/Assignements-ECS618/blob/main/Assignment-1/assets/rrt_path.png?raw=true)
+
 
 ---
 
