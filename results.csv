@@ -1,0 +1,6 @@
+Algorithm,Path Length,Time (s),Success
+Bug0,32.0,0.0007,True
+Bug1,29.01,0.0007,True
+BugTangent,32.0,0.0006,True
+RRT,35.0,0.0137,True
+PRM,28.3,0.1609,True
